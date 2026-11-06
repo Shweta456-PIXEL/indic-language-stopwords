@@ -4,7 +4,7 @@ A beginner-friendly Python project that provides stopword lists for four Indian 
 
 **Course:** DH Lab 2, Monsoon Semester 2026
 **Department:** Department of Humanities and Social Sciences, IIT (ISM) Dhanbad
-**Author:** [Your Name]
+**Author:** Shweta Kumari 
 
 ---
 
